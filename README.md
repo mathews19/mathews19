@@ -15,11 +15,9 @@
 <a href="https://github.com/mathews19">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mathews19" />
 </a>
-
-<a href="https://github.com/mathews19/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathews19&layout=compact" />
+<a href="https://github.com/mathews19">
+  <img align= "center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mathews19" />
 </a>
-
-<a href="https://github.com/mathews19/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mathews19" />
+<a href="https://github.com/mathews19">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathews19&layout=compact" />
 </a>
