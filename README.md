@@ -13,11 +13,12 @@
 ### - ⚡ Fun fact: I love discovering new things.
 
 <a href="https://github.com/mathews19">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=mathews19" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=mathews19&show_icons=true" />
+</a>
+<a href="https://github.com/mathews19">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathews19&hide=javascript,html" />
 </a>
 <a href="https://github.com/mathews19">
   <img align= "center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mathews19" />
 </a>
-<a href="https://github.com/mathews19">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathews19&layout=compact" />
-</a>
+
