@@ -18,5 +18,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathews19&layout=compact" />
 </a>
 <a href="https://github.com/mathews19/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Wakatime" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mathews19" />
 </a>
