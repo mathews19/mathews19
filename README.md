@@ -12,6 +12,12 @@
 ### - 📫 How to reach me: matheus.steps@gmail.com or @mathews_1996 on twitter
 ### - ⚡ Fun fact: I love discovering new things
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mathews19)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathews19&layout=compact)](https://github.com/mathews19/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Matheus)](https://github.com/mathews19/github-readme-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=mathews19" />
+<a href="https://github.com/mathews19/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathews19&layout=compact" />
+</a>
+<a href="https://github.com/mathews19/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mathews19" />
+</a>
