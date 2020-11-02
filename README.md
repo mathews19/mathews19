@@ -28,6 +28,7 @@
 <td><img width="430px" align="left" src="https://github-readme-stats.vercel.app/api?username=mathews19&show_icons=true" /></td>
  <td><img width="390px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathews19&hide=javascript,html"</td>
 <td><img width="370px" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=mathews19" /></td>
+ 
 </tr>
 </table>
 </center>
